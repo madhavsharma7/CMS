@@ -2,6 +2,34 @@
 768
 425 */
 
+@media screen and (max-width: 1024px) {
+    .right h4{
+        margin-top: -65%;
+        margin-left: 30%;
+    }
+
+    .right input {
+        width: 120%;
+        margin-left: 20%;
+    }
+
+    .section_2-right h4{
+        margin-top: -62%;
+        margin-left: 28%;
+    
+    }
+    .section_2-right input{
+        width: 120%;
+        margin-top: 2%;
+        margin-left: 30%;
+    }
+    .note{
+        font-size: 12px;
+    }
+    
+
+
+}
 @media screen and (max-width: 991px) {
     .section_1-below {
         height: 420px;
@@ -300,6 +328,5 @@
 
     }
 
- 
 
 }
