@@ -1,0 +1,305 @@
+/* 991
+768
+425 */
+
+@media screen and (max-width: 991px) {
+    .section_1-below {
+        height: 420px;
+    }
+
+    .section_1-below input {
+        width: 40%;
+    }
+
+    .right h4 {
+        margin-top: -105px;
+        margin-left: 10px;
+        /* Adjust the margin-top value as needed */
+    }
+
+    .right input {
+        width: 150%;
+        margin-right: -100px;
+    }
+
+    .note {
+        font-size: 12px;
+    }
+
+    .section_2-right {
+        margin-left: 2%;
+    }
+
+    .section_2-right h4 {
+        margin-top: -190px;
+        margin-left: 10px;
+    }
+
+    .section_2-right input {
+        width: 150%;
+        margin-right: -100px;
+    }
+
+    .section_2-below textarea#descirption {
+        width: 130%;
+    }
+
+}
+
+@media screen and (max-width: 768px) {
+    .section_1-below {
+        height: 380px;
+    }
+
+    .section_1-below input {
+        width: 40%;
+    }
+
+    .right h4 {
+        margin-top: -122px;
+        margin-left: 10px;
+        /* Adjust the margin-top value as needed */
+    }
+
+    .right input {
+        width: 150%;
+        margin-right: -100px;
+    }
+
+    .note {
+        font-size: 12px;
+    }
+
+    .section_2 {
+        margin-top: 40%;
+    }
+
+    .section_2-right h4 {
+        margin-top: -250px;
+        margin-left: 30%;
+    }
+
+    .section_2-right input {
+        margin-left: 30%;
+        width: 130%;
+    }
+
+    .note {
+        font-size: 9px;
+    }
+
+    .section_3-below {
+        margin-top: -20%;
+
+    }
+
+    .section_3-below .h4 {
+        font-size: 25px;
+    }
+
+    .faq {
+        font-size: 22px;
+    }
+
+}
+
+@media screen and (max-width: 425px) {
+
+    .section_1-below {
+        height: 240px;
+    }
+
+    .section_1-below p {
+        font-size: 12px;
+    }
+
+    .section_1-below h4 {
+        font-size: 10px;
+    }
+
+    .section_1-below input {
+        height: 18px;
+    }
+
+
+    .right h4 {
+        margin-top: -60%;
+        font-size: 10px;
+        margin-left: 40%;
+    }
+
+    .right input {
+        width: 80%;
+        margin-top: 4.5%;
+        margin-left: 40%;
+        height: 18px;
+    }
+
+    .section_1-below button {
+        width: 40%;
+        font-size: 20px;
+    }
+
+    #section_2 {
+        margin-top: 15%;
+    }
+
+    #section_2 h4 {
+        font-size: 20px;
+    }
+
+    .img {
+        margin-left: 55%;
+    }
+
+    #section_2 img {
+        margin-top: 5%;
+        width: 70%;
+        margin-left: 35%;
+    }
+
+    .note {
+        margin-left: 47%;
+    }
+
+    .section_2-below h4 {
+        margin-top: 38%;
+        margin-left: 20%;
+    }
+
+    .section_2-below input {
+        width: 100%;
+        margin-left: 6%;
+    }
+
+    .section_2-right h4 {
+        margin-top: -180%;
+        margin-left: 7%;
+    }
+
+    .section_2-right input {
+        margin-left: -32%;
+
+    }
+
+    .section_2-below .h4 {
+        margin-top: 45%;
+        margin-left: 30%;
+
+    }
+
+    .section_2-below textarea#descirption {
+        margin-top: 5%;
+        margin-left: -8%;
+
+    }
+
+    .section_3-below {
+        margin-top: -30%;
+
+    }
+
+    .section_3-below h4 {
+        margin-top: -15%;
+        margin-left: 5%;
+    }
+
+    .faq {
+        margin-top: 20%;
+        width: calc(70% - 25px);
+        margin-left: -20%;
+    }
+
+    .section_3-below .faq h4 {
+        margin-top: 5%;
+
+    }
+
+    .description {
+        margin-top: 25%;
+    }
+
+    .faq+.faq {
+        margin-left: 70%;
+    }
+
+    #addFaqBtn {
+        font-size: 10px;
+    }
+
+    .update {
+        font-size: 15px;
+        width: 20%;
+    }
+
+}
+
+@media screen and (max-width: 375px) {
+
+    .section_1-below input {
+        width: 40%;
+    }
+
+    .section_1-below p {
+        font-size: 8px;
+    }
+
+    .right h4 {
+        margin-left: 50%;
+        margin-top: -73%;
+    }
+
+    .right input {
+        margin-left: 50%;
+        width: 70%;
+    }
+
+    .section_1-below button {
+        font-size: 15px;
+    }
+
+    .note {
+        font-size: 8px;
+    }
+
+    .section_2-below input {
+        width: 100%;
+    }
+
+    .section_2-right h4 {
+        margin-top: -200%;
+        margin-left: 15%;
+    }
+
+    .section_2-right input {
+        width: 120%;
+        margin-left: -18%;
+
+    }
+
+    .section_3-below {
+        margin-top: -50%;
+
+    }
+
+    .faq {
+        width: 60%;
+    }
+
+    .faq+.faq {
+        width: 60%;
+        margin-left: 80%;
+    }
+
+    #addFaqBtn {
+        font-size: 8px;
+    }
+
+    .update {
+        font-size: 10px;
+
+    }
+
+ 
+
+}

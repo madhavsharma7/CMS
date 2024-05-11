@@ -147,7 +147,7 @@ body {
 .right {
     float: right;
     margin-top: -24.9%;
-    margin-right: 370px;
+    margin-right: 25%;
     color: black;
     font-size: 20px;
 
@@ -182,9 +182,9 @@ body {
     margin-top: 5%;
 }
 
-.full-width{
+.full-width {
     width: 138%;
- margin-top: 2%;
+    margin-top: 2%;
 }
 
 #section_2 .img {
@@ -193,13 +193,13 @@ body {
 
 }
 
-#section_2 img{
+#section_2 img {
     margin-top: 2%;
     width: 30%;
     height: 40%;
 }
 
-.note{
+.note {
     margin-left: 1%;
     margin-top: 1.2%;
     font-size: 18px;
@@ -273,15 +273,15 @@ body {
     justify-content: space-between;
 }
 
- .section_3-below .h4{
+.section_3-below .h4 {
     margin-top: -20%;
     font-size: 30px;
-} 
+}
 
 .faq {
     margin-left: -1%;
     width: calc(50% - 10px);
-    padding: 5px;
+    padding: 2%;
     margin-top: -12%;
 }
 
@@ -334,7 +334,7 @@ body {
     display: inline-block;
     text-decoration: none;
     color: #74C0FC;
-    cursor: pointer; 
+    cursor: pointer;
 }
 
 .dropdown-toggle i.fa-angle-down {
@@ -368,9 +368,7 @@ body {
     background-color: #f0f0f0;
 }
 
-.dropdown-toggle.active + .dropdown-menu {
+.dropdown-toggle.active+.dropdown-menu {
     display: block;
     position: static;
 }
-
-
